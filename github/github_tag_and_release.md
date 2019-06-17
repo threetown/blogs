@@ -24,6 +24,12 @@ tag分为两种：`lightweight` 和 `annotated`
 
   通过tag可以返回到项目的特定状态下，所以可以将tag看作是在大量commit中设定的书签。
 
+* 提交tag
+
+  ```bash
+  git push origin --tags
+  ```
+
 
 
 ## 二、创建 Release
